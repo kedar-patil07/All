@@ -1,0 +1,24 @@
+-----------Characteristics---------------------
+1.mutable
+2.key-value pair
+3.unordered 3.7 , after python version it becomesordered
+4.Dynamic
+
+--------------Creation-----------------
+using {} braces
+using dict() constructor
+
+---------------Operations------------------
+Adding items
+updating items
+deleting items
+
+---------------Methods------------------------------------------------------
+get(),keys(),values(),items(),pop(),popitem(),clear()
+Dictionary compres[hensions
+
+-------------------nested dictionaries-------------------------------------
+
+-------------------common usecases----------------------------------------
+
+----------------------------------------

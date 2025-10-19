@@ -1,0 +1,23 @@
+---------------------------List is muttable----------------------------------
+#1 Square brackets
+my_list = [1,2,3,"kello",True]
+print(my_list)
+#2 using list constructor
+my_list = list((1,2,3,"kello",True))
+print(my_list)
+#3 list comprehension and range
+-------------------------------------------------------------------
+
+list = [1,2,3,4,5]
+print('before update',list)
+list[0:4] = 10,20,30,40
+print('after update',list)
+update --- list[0:3] =10,15,20
+concate--- list1 + list2
+repeat --- list*3
+-----------------------------------------------
+characteristics
+mutable
+ordered
+dynamic - we can manage the size of list
+hetergeneous

@@ -1,0 +1,10 @@
+---------------------------------NUMPY-------------------------------------------------------
+
+NumPy (short for Numerical Python) is a powerful open-source library in Python
+used for numerical and scientific computing.
+
+1.speed - 50 to 100 times faster  than normal python list
+2.less memory
+3.easy math operations
+4.used in Ai/ds/da
+

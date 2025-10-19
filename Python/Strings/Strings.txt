@@ -1,0 +1,42 @@
+[Immutable]
+string and characters
+
+name1 = 'Kedar'
+
+name2 = "Kedar"
+
+name4 = """
+this is a multi 
+line string
+"""
+
+print(name1,name2,name3,name4)
+---------------------------------------------------------------------
+#characteristics
+immutable
+indexed 
+iterable
+--------------------------------------------------------
+checking membership operator
+text="My name is Kedar "
+#membership in and not in
+print("Kedar" in text)    //True
+or
+print("Kedar" not in text) //False
+
+-------------------METHODS-----------------------------------------
+str = input("Enter your string:")
+print(str.lower())
+#similarly for 
+upper()
+capitalize()
+swapcase()
+find()
+replace()
+split() and joining ()
+startswith() and endswith()
+isalpha() and isdigit() and isalnum()  
+------------------------------------------------------------
+real life examples
+when creating a software, at that time we have store their number,name,email
+displaying msg

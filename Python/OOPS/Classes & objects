@@ -1,0 +1,11 @@
+a class is a blueprint or template for creating objects
+e.g before building house we have to plan hows the house will be looks and
+    design structure of house
+    In that,
+    map - class
+    house - object
+
+    objects are the actual instance of a class
+
+-----------------------------------------------------------------------------------
+self is special keyword

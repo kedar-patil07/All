@@ -1,0 +1,12 @@
+---------------Characteristics------------
+1.immutable
+2.heterogeneous - multiple types of data can store
+3.()
+
+-------------------------------
+len()
+min max
+count()
+index()
+sorted()
+slicing()
